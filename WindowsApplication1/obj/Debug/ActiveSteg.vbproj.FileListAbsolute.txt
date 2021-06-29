@@ -1,0 +1,11 @@
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\bin\Debug\ActiveSteg.exe.config
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\bin\Debug\ActiveSteg.exe
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\bin\Debug\ActiveSteg.pdb
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\bin\Debug\ActiveSteg.xml
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.vbprojResolveAssemblyReference.cache
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.Form1.resources
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.Resources.resources
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.vbproj.GenerateResource.Cache
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.exe
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.xml
+E:\Files\Projects\Tests\ActiveSteg\WindowsApplication1\obj\Debug\ActiveSteg.pdb
